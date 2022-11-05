@@ -1,0 +1,55 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hillsong UNITED"},
+                  "SongTitle": {"S": "All This Future"},
+                  "AlbumTitle": {"S": "Are We There Yet?"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hillsong UNITED"},
+                  "SongTitle": {"S": "Deeper Water"},
+                  "AlbumTitle": {"S": "Are We There Yet?"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Aline Barros"},
+                  "SongTitle": {"S": "Imensurável"},
+                  "AlbumTitle": {"S": "Minha Oração"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Davi Sacer"},
+                "SongTitle": {"S": "Sobre As Aguas"},
+                "AlbumTitle": {"S": "O Encontro"},
+                "SongYear": {"S": "2020"}
+              }
+          }
+      },
+      {
+        "PutRequest": {
+            "Item": {
+              "Artist": {"S": "Prisma Brasil"},
+              "SongTitle": {"S": "Toma Meu Coração"},
+              "AlbumTitle": {"S": "Reflita em mim"},
+              "SongYear": {"S": "2020"}
+            }
+        }
+    }
+      ]
+}
+
